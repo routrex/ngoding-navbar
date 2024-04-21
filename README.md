@@ -1,2 +1,2 @@
 # ngoding-navbar
-repository bikin navbar sederhana html and css
+repository membuat navbar sederhana menggunakan html and css
